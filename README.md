@@ -16,3 +16,4 @@
 
 <b> 7. </b> <p>C++ implementation of a robust sorting module that efficiently handles various sorting algorithms, including quicksort, mergesort, and heapsort. The implementation is designed to be modular, allowing for easy extension and testing of different sorting techniques. Performance evaluation is conducted using a custom timing module</p>
 
+<b> 8. </b> <p>C++ implementation of a graph data structures and algorithms, featuring functionalities like traversal, pathfinding, and graph operations. The codebase includes definitions and methods for both directed and undirected graphs, and integrates with a main application to demonstrate various graph algorithms in action.</p>
