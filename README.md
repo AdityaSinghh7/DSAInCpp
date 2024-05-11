@@ -17,3 +17,5 @@
 <b> 7. </b> <p>C++ implementation of a robust sorting module that efficiently handles various sorting algorithms, including quicksort, mergesort, and heapsort. The implementation is designed to be modular, allowing for easy extension and testing of different sorting techniques. Performance evaluation is conducted using a custom timing module</p>
 
 <b> 8. </b> <p>C++ implementation of a graph data structures and algorithms, featuring functionalities like traversal, pathfinding, and graph operations. The codebase includes definitions and methods for both directed and undirected graphs, and integrates with a main application to demonstrate various graph algorithms in action.</p>
+
+<b> 9. </b> <p>C++ implementation of Dijkstra's algorithm for shortest path calculations and a ladder problem solver using graph theory concepts. It includes separate modules for each algorithm, with comprehensive interfaces and functionalities designed for analytical purposes.</p>
