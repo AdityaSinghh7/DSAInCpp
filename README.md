@@ -10,5 +10,5 @@
 
 <b> 4. </b> <p>C++ implementations of fundamental data structures Linked Stacks, Linked Queues, Array Stacks, and Array Queues. The code demonstrates efficient operations such as push, pop, enqueue, and dequeue across different structure types. Performance measurements are facilitated by the Timer.h utility, providing precise timing of operations. main.cpp integrates these structures in practical scenarios, serving both educational and benchmarking purposes.</p>
 
-<b> 5. </b> <p>C++ project implements a hash table with custom hashing functions, providing efficient data storage and retrieval methods. The codebase includes modules for timing operations, generating statistics on performance, and handling collisions using linked lists. Ideal for educational purposes or as a base for developing more complex data handling applications.</p>
+<b> 5. </b> <p>C++ implementation of a hash table with custom hashing functions, providing efficient data storage and retrieval methods. The codebase includes modules for timing operations, generating statistics on performance, and handling collisions using linked lists. Ideal as a base for developing more complex data handling applications.</p>
 
