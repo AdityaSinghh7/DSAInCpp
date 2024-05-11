@@ -13,3 +13,6 @@
 <b> 5. </b> <p>C++ implementation of a hash table with custom hashing functions, providing efficient data storage and retrieval methods. The codebase includes modules for timing operations, generating statistics on performance, and handling collisions using linked lists. Ideal as a base for developing more complex data handling applications.</p>
 
 <b> 6. </b> <p>C++ implementation of binary search trees (BST) and AVL trees to explore efficient data structures for balanced tree operations. It includes comprehensive functionality for insertion, deletion, and search operations, alongside performance timing to evaluate efficiency.</p>
+
+<b> 7. </b> <p>C++ implementation of a robust sorting module that efficiently handles various sorting algorithms, including quicksort, mergesort, and heapsort. The implementation is designed to be modular, allowing for easy extension and testing of different sorting techniques. Performance evaluation is conducted using a custom timing module</p>
+
